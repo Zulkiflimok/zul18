@@ -1,4 +1,3 @@
-# zul18
 ### Basics from All team bot TEAM TERMUX
 [ ***Usage Instruction*** ]
 
@@ -9,14 +8,14 @@ $ cd storage
 $ ls
 $ cd downloads
 $ git clone https://github.com/Zulkiflimok/zul18
-$ cd publik
+$ cd zul18
 $ apt install unzip
-$ unzip publik.zip
-$ cd publik
-$ nano publik.py
+$ unzip zul18.zip
+$ cd zul18
+$ nano zul18.py
 $ note : edit email or paswod
 $ ctrl + x + y + enter
-$ python3 publik.py
+$ python3 zul18.py
 ```
 
 
